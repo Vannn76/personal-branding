@@ -187,6 +187,10 @@ nav ul li a{
     justify-content: center;
 }
 
+.hero-left p{
+    text-align: justify;
+}
+
 /* Services Section */
 #services{
     background-color: var(--secondaryBackgroundColor);
